@@ -1,2 +1,2 @@
 # raspberry-pi-help
-Contain the necessary steps to configure a raspberry pi without skipping any steps and also have reminders of linux commands with explanations
+This repository is not intended to be an all inclusive documentation as for that the [Raspberry Pi Documentation](https://github.com/raspberrypi/documentation) exists, but it is intended to have things that I personally find usefull in order to ensure settup of future pi's is easy and in one place (also contain lists of fequently used linux commands as I sometimes don't fully remember the name of that one command).
